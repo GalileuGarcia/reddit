@@ -3,18 +3,11 @@ Como executar esse projeto
 ###################
 
 Para executar esse projeto é muito simples! Você precisa ter um servidor PHP devidamente configurado ou o XAMPP instalado na sua máquina 
-Para instalar o banco de dados da aplicação, basta criar um banco com o nome "redesocial" e importar o banco a partir do arquivo "redesocial.sql"
+Para instalar o banco de dados da aplicação, basta criar um banco com o nome "reddit" e importar o banco a partir do arquivo "reddit.sql"
 
-No final, o projeto será executado normalmente se estiver como: http://localhost/prova/
+No final, o projeto será executado normalmente se estiver como: http://localhost/reddit/
 
-Obs.: Para configurar o usuário e senha do banco no projeto basta ir em application/config/database.php
-
-###################
-Usuários | Senha para teste
-###################
-caio | 1234
-lazaro | 1234
-fernanda | 1234
+Obs.: Para configurar o banco de dados da aplicação basta ir em application/config/constants.php 
 
 ###################
 Stacks
