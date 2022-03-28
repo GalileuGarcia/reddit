@@ -26,20 +26,3 @@ License
 ###################
 
 Please see the license agreement.
-
-###################
-Resources
-###################
-User Guide
-Contributing Guide
-Language File Translations
-Community Forums
-Community Wiki
-Community Slack Channel
-Report security issues to our Security Panel or via our page on HackerOne, thank you.
-
-###################
-Acknowledgement
-###################
-
-The CodeIgniter team would like to thank EllisLab, all the contributors to the CodeIgniter project and you, the CodeIgniter user.
