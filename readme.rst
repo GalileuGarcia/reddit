@@ -7,7 +7,9 @@ Para instalar o banco de dados da aplicação, basta criar um banco com o nome "
 
 No final, o projeto será executado normalmente se estiver como: http://localhost/reddit/
 
-Obs.: Para configurar o banco de dados da aplicação basta ir em application/config/constants.php 
+Para configurar o banco de dados da aplicação basta ir em application/config/constants.php 
+
+Você pode acompanhar a documentação da API em: https://documenter.getpostman.com/view/18686302/UVyoVcsu
 
 ###################
 Stacks
